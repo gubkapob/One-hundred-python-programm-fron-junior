@@ -1,1 +1,1 @@
-# One-hundred-python-programm-fron-junior
+# One-hundred-python-programm-from-junior
