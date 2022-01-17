@@ -1,3 +1,4 @@
+# This programm is simple generator of password. Max value lenght=75.
 import random
 
 def password_gen(lenght):
@@ -16,4 +17,4 @@ if __name__ == '__main__':
     try:
         password_gen(lenght = int(input('Vvedite dlinnu parolya -- ')))
     except:
-        print('ValueError: invalid literal for int()')
+        print('ValueError: invalid literal for int() or sample larger than population or is negative')
