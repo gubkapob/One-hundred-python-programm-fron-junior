@@ -1,6 +1,6 @@
 """
 This programm in Python get password value and hidding first
-and last characters / Python version >= 3.8
+and last characters / Python version 3
 """
 
 def hidding_password(password):
